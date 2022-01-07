@@ -1,11 +1,12 @@
 {
-  "id": "dark",
-  "signature": "Best regards,",
-  "name": "The dark mail team",
-  "contactMain": "Call <a href='tel:004580100100'><span>(45) 80100100</span></a> or email us at",
-  "contactMail": "info@dark.dk",
-  "slogan": "LED Pylon. LED Wall. Digital Signage.",
-  "logoUrl": "/assets/dark.png",
-  "logoAlt": "dark logo",
-  "website": "http://dark.dk"
+  "id": "ds-reno",
+  "signature": "Cordialement,",
+  "name": "DANCOISNE Sébastien",
+  "fonction": "dirigeant",
+  "contactMain": "Téléphone : <a href='tel:+33699051598'><span>+33 6 99 05 15 98</span></a> | e-mail :",
+  "contactMail": "sebastien.dancoisne@ds-reno.fr",
+  "slogan": "Tout pour votre maison",
+  "logoUrl": "/assets/DS RENO logo-4.png",
+  "logoAlt": "Logo de DS RÉNO",
+  "website": "https://www.ds-reno.fr"
 }
